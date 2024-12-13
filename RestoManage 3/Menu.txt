@@ -1,0 +1,7 @@
+101 - rice and chicken: 60.00
+102 - sisig: 55.00
+201 - sabaw: 10.00
+301 - iced tea: 15.00
+302 - coke: 25.00
+401 - banana: 15.00
+402 - ice cream yummy: 25.00

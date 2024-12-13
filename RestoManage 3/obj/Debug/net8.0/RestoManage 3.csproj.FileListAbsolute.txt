@@ -1,0 +1,17 @@
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoManage 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoManage 3.AssemblyInfoInputs.cache
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoManage 3.AssemblyInfo.cs
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoManage 3.csproj.CoreCompileInputs.cache
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\bin\Debug\net8.0\RestoManage 3.exe
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\bin\Debug\net8.0\RestoManage 3.deps.json
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\bin\Debug\net8.0\RestoManage 3.runtimeconfig.json
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\bin\Debug\net8.0\RestoManage 3.dll
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\bin\Debug\net8.0\RestoManage 3.pdb
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoManage 3.dll
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\refint\RestoManage 3.dll
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoManage 3.pdb
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoManage 3.genruntimeconfig.cache
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\ref\RestoManage 3.dll
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoManage 3.csproj.AssemblyReference.cache
+C:\Users\Carla Abella\Documents\School Work 24-25\programing\RestoManage 3\obj\Debug\net8.0\RestoMan.D02F011B.Up2Date

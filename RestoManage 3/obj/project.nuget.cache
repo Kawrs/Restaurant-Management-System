@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "61wAI9bLiSU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carla Abella\\Documents\\School Work 24-25\\programing\\RestoManage 3\\RestoManage 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carla Abella\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

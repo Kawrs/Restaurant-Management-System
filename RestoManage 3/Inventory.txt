@@ -1,0 +1,7 @@
+101-chicken ug rice-16-50.00
+102-sisig-20-55.00
+301-iced tea-20-15.00
+302-coke-20-25.00
+401-Banana-8-12.00
+402-ice cream yummy-10-25.00
+202-soup-0-10.00
